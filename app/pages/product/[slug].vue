@@ -47,6 +47,9 @@ const handleMouseLeave = () => {
           >
         </div>
       </figure>
+      <div class="relatedContainer">
+        <RelatedProducts :product-slug="product.slug" />
+      </div>
     </template>
   </div>
 </template>
@@ -94,6 +97,10 @@ const handleMouseLeave = () => {
 
 .imageWrapper:hover .image {
   transform: scale(2);
+}
+
+.relatedContainer {
+  grid-column: 1 / -1;
 }
 
 .message {
