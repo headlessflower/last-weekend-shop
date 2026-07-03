@@ -1,0 +1,25 @@
+{
+  "name": "last-weekend-shop",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "lint": "nuxt prepare && eslint .",
+    "audit:secrets": "sh -c 'rg -n \"(sk_(live|test)_[A-Za-z0-9]{16,}|eyJ[A-Za-z0-9_-]{20,}\\.[A-Za-z0-9_-]{20,}\\.[A-Za-z0-9_-]{20,}|service_role[\\\"'\"'\"']?\\s*[:=]\\s*[\\\"'\"'\"'][^\\\"'\"'\"']+)\" --glob \"!node_modules\" --glob \"!.nuxt\" --glob \"!.output\" . && exit 1 || exit 0'",
+    "audit:deps": "npm audit --audit-level=moderate"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.0",
+    "@upstash/ratelimit": "^2.0.5",
+    "@upstash/redis": "^1.35.0",
+    "nuxt": "^4.0.0",
+    "stripe": "^18.2.1",
+    "zod": "^3.25.67"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^1.6.0",
+    "eslint": "^10.6.0"
+  }
+}

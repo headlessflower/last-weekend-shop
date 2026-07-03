@@ -1,0 +1,110 @@
+[
+  {
+    "id": "7b233a01-2a1f-4d3e-9080-1a1a2b3c4d5e",
+    "title": "Japanese Seed Bead Black Pearl Sterling Silver",
+    "slug": "japanese-seed-bead-black-pearl-sterling-silver",
+    "description": "A placeholder description for this piece. Handcrafted jewelry.",
+    "price_cents": 10000,
+    "stock": 1,
+    "status": "active",
+    "main_image_url": "/images/japanese-seed-bead-black-pearl-sterling-silver.png",
+    "main_image_alt": "Japanese Seed Bead Black Pearl Sterling Silver",
+    "created_at": "2026-07-02T18:00:00.000Z"
+  },
+  {
+    "id": "dd99b821-2a91-4cf1-8889-beea22901a1c",
+    "title": "Pearl Anklet",
+    "slug": "pearl-anklet",
+    "description": "A placeholder description for this piece. Handcrafted jewelry.",
+    "price_cents": 10000,
+    "stock": 1,
+    "status": "active",
+    "main_image_url": "/images/pearl-anklet.png",
+    "main_image_alt": "Pearl Anklet",
+    "created_at": "2026-07-02T17:00:00.000Z"
+  },
+  {
+    "id": "88ef77a2-192a-43cf-b040-cfd88192a9a0",
+    "title": "Necklace 1",
+    "slug": "necklace-1",
+    "description": "A placeholder description for this piece. Handcrafted jewelry.",
+    "price_cents": 10000,
+    "stock": 1,
+    "status": "active",
+    "main_image_url": "/images/necklace-1.png",
+    "main_image_alt": "Necklace 1",
+    "created_at": "2026-07-02T16:00:00.000Z"
+  },
+  {
+    "id": "c4b4a11f-1a98-4b77-8fa0-4ee80f089601",
+    "title": "Bracelet 1",
+    "slug": "bracelet-1",
+    "description": "A placeholder description for this piece. Handcrafted jewelry.",
+    "price_cents": 10000,
+    "stock": 1,
+    "status": "active",
+    "main_image_url": "/images/bracelet-1.png",
+    "main_image_alt": "Bracelet 1",
+    "created_at": "2026-07-02T15:00:00.000Z"
+  },
+  {
+    "id": "11bf98b1-389f-43b6-9bb2-8089201509a2",
+    "title": "Dolphin 2",
+    "slug": "dolphin-2",
+    "description": "A placeholder description for this piece. Handcrafted jewelry.",
+    "price_cents": 10000,
+    "stock": 1,
+    "status": "active",
+    "main_image_url": "/images/dolphin-2.png",
+    "main_image_alt": "Dolphin 2",
+    "created_at": "2026-07-02T14:00:00.000Z"
+  },
+  {
+    "id": "99f18a20-3028-48b4-93e1-d227918a3a09",
+    "title": "Dophin 1",
+    "slug": "dophin-1",
+    "description": "A placeholder description for this piece. Handcrafted jewelry.",
+    "price_cents": 10000,
+    "stock": 1,
+    "status": "active",
+    "main_image_url": "/images/dophin-1.png",
+    "main_image_alt": "Dophin 1",
+    "created_at": "2026-07-02T13:00:00.000Z"
+  },
+  {
+    "id": "a0c103ab-eb63-4416-834c-20cdb4c2b9a1",
+    "title": "Silver Wire-Wrapped Raw Amethyst Ring",
+    "slug": "raw-amethyst-ring",
+    "description": "A raw, deep purple amethyst crystal clustered and hand-wrapped with solid sterling silver wire. Each ring exhibits the unique natural geometry of the crystal specimen, making it a completely one-of-a-kind statement piece.",
+    "price_cents": 18500,
+    "stock": 1,
+    "status": "active",
+    "main_image_url": "/images/raw_amethyst_ring.png",
+    "main_image_alt": "Silver wire-wrapped amethyst crystal ring",
+    "created_at": "2026-07-02T12:00:00.000Z"
+  },
+  {
+    "id": "f78b1cfb-e66b-4c2d-947b-7b00366bc0f2",
+    "title": "Delicate Emerald Pendant Necklace",
+    "slug": "emerald-pendant-necklace",
+    "description": "A brilliant-cut green emerald solitaire gemstone, delicately set in a 14k yellow gold four-prong basket. Suspended from an ultra-fine 16-inch gold chain, this elegant piece captures light with every movement.",
+    "price_cents": 32000,
+    "stock": 1,
+    "status": "active",
+    "main_image_url": "/images/emerald_necklace.png",
+    "main_image_alt": "Delicate emerald pendant necklace in 14k gold",
+    "created_at": "2026-07-01T15:30:00.000Z"
+  },
+  {
+    "id": "29b8c04e-6e8b-4a57-8d18-724bcde663f7",
+    "title": "Hand-Carved Obsidian Drop Earrings",
+    "slug": "hand-carved-obsidian-earrings",
+    "description": "Polished natural obsidian drops, meticulously faceted by hand. Fitted with hypoallergenic sterling silver ear hooks, these earrings offer a sleek, reflective dark finish that complements any classic wardrobe.",
+    "price_cents": 14500,
+    "stock": 0,
+    "status": "sold",
+    "main_image_url": "/images/obsidian_earrings.png",
+    "main_image_alt": "Faceted obsidian drop earrings on a stand",
+    "created_at": "2026-06-30T10:15:00.000Z"
+  }
+]
